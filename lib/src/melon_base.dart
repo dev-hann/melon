@@ -5,7 +5,7 @@ import 'package:melon/src/model/melon_song.dart';
 
 const _top100URL = "https://www.melon.com/chart/index.htm";
 const _hot100URL = "https://www.melon.com/chart/hot100/index.htm";
-const _new50URL = "https://www.melon.com/dj/today/djtoday_list.htm";
+const _new50URL = "https://www.melon.com/new/index.htm";
 const _djURL = "https://www.melon.com/dj/today/djtoday_list.htm";
 const _djDetailURL =
     "https://www.melon.com/mymusic/dj/mymusicdjplaylistview_inform.htm?plylstSeq=";
